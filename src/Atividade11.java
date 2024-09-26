@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Atividade11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        //1. Peça ao usuário para inserir o salário bruto de um funcionário.
+        //1. Peça ao usuário para inserir o salário bruto de um funcionário
         //2. Solicite o número de anos que o funcionário trabalhou na empresa.
         //3. Aplique as seguintes regras de bonificação:
         //    - Para mais de 10 anos de trabalho: bônus de 10% sobre o salário bruto.

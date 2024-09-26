@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Atividade10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        //1. Peça ao usuário para inserir o valor total da compra.
+        //1. Peça ao usuário para inserir o valor total da compra
         //2. Aplique as seguintes regras de desconto progressivo:
         //    - Para compras acima de R$ 500,00: 20% de desconto.
         //    - Para compras entre R$ 200,00 e R$ 500,00: 10% de desconto.
